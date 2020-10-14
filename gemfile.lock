@@ -1,0 +1,14 @@
+GEM
+  specs:
+    appsignal (2.11.0)
+      rack
+    rack (2.2.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  appsignal
+
+BUNDLED WITH
+   1.17.3
